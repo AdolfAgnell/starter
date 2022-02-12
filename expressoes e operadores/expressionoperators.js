@@ -25,3 +25,4 @@ console.log(date.__proto__)
     typeof
     delete
 */
+console.log(typeof 'adolfo')
